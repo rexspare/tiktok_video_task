@@ -1,0 +1,47 @@
+export const VIDEOS: any[] = [
+    {
+        aweme_id: 'v15044gf0000d1lqhc7og65jddiucejg',
+        video_id: '7524292924507426078',
+        region: 'US',
+        title: '#tiktok #baby ',
+        cover: 'https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAA3CnqORiILdnarsaB2AVPoKEzGBum3BiOEX~tplv-tiktok-shrink:640:640.jpeg?dr=14571&refresh_token=43cdb369&x-expires=1753894800&x-signature=ZT%2BydidW0UeYSslJzavDIAIIvyE%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=FEED',
+        ai_dynamic_cover: 'https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAA3CnqORiILdnarsaB2AVPoKEzGBum3BiOEX~tplv-tiktok-shrink:640:640.jpeg?dr=14571&refresh_token=43cdb369&x-expires=1753894800&x-signature=ZT%2BydidW0UeYSslJzavDIAIIvyE%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=FEED',
+        origin_cover: 'https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQaXiVqhiBM26RrBAEABz2amuBI0PrnOsILoG~tplv-tiktokx-360p.webp?dr=14555&refresh_token=f3632fc6&x-expires=1753894800&x-signature=EwDKCvvOFg77ACkyAqocBk3n2tI%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=FEED&ftpl=1',
+        duration: 5,
+        play: 'https://v16m-default.tiktokcdn.com/93a98e8d59d02a810468d1615861650d/68895739/video/tos/maliva/tos-maliva-ve-0068c799-us/oUsYXAMy6VRJvEIoDaFfEBAfdUXNiOQ1RJDmEw/?a=30192&bti=OHYpOTY0Zik3OjlmOm01MzE6ZDQ0MDo%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1470&bt=735&cs=0&ds=6&ft=EeF4ntZWD00Q12NvmOZ.WIxRhFQyhF_45SY&mime_type=video_mp4&qs=0&rc=ZmY0ZTs1ZTo7aDk4aDozaEBpamh4Z205cmZ0NDMzaTczNEAxMDFfYTRiNjAxYjE0YV9iYSNnYGZhMmQ0ZWlhLS1kMTJzcw%3D%3D&vvpl=1&l=202507300120179C972F24E7E81025EA0C&btag=e000b0000',
+        wmplay: 'https://v16m-default.tiktokcdn.com/528f9ab8e73c603252975053d4616e2c/68895739/video/tos/maliva/tos-maliva-ve-0068c799-us/oMRXonGrOaAsBEPmMRPBaqxGEiA52iIIGVusz/?a=30192&bti=OHYpOTY0Zik3OjlmOm01MzE6ZDQ0MDo%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1506&bt=753&cs=0&ds=3&ft=EeF4ntZWD00Q12NvmOZ.WIxRhFQyhF_45SY&mime_type=video_mp4&qs=0&rc=Nmg7O2k7ZGZoMzY7ZmY4O0Bpamh4Z205cmZ0NDMzaTczNEAvNS1eLWJfXjIxMzA1XmBfYSNnYGZhMmQ0ZWlhLS1kMTJzcw%3D%3D&vvpl=1&l=202507300120179C972F24E7E81025EA0C&btag=e000b0000',
+        size: 561768,
+        wm_size: 575182,
+        music: '',
+        music_info: {
+            id: '7524292970745498399',
+            title: 'original sound - user33951549420561',
+            play: '',
+            cover: 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d86a4eb54cc48875c8b60ffc11e3b2e1~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=2350abcc&x-expires=1753894800&x-signature=1VC%2F7SPf0VfiXXitnt6u%2BaxhrJU%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva',
+            author: 'Kiwi',
+            original: true,
+            duration: 5,
+            album: ''
+        },
+        play_count: 217497984,
+        digg_count: 2728896,
+        comment_count: 22759,
+        share_count: 930277,
+        download_count: 389146,
+        create_time: 1751886012,
+        anchors: null,
+        anchors_extras: '',
+        is_ad: false,
+        commerce_info: { adv_promotable: false, branded_content_type: 0 },
+        commercial_video_info: '',
+        item_comment_settings: 0,
+        mentioned_users: '',
+        author: {
+            id: '7500094368155730986',
+            unique_id: 'user33951549420561',
+            nickname: 'Kiwi',
+            avatar: 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/d86a4eb54cc48875c8b60ffc11e3b2e1~tplv-tiktokx-cropcenter:300:300.jpeg?dr=14577&refresh_token=c999de9a&x-expires=1753894800&x-signature=rRiPX4FkCZW5%2Bmn4J%2FacSb2Xk4E%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva'
+        },
+        is_top: 0
+    },
+]
