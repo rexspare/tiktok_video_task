@@ -29,15 +29,14 @@ export async function fetchTikTokVideos(): Promise<Video[]> {
     };
 
     try {
-        // const response = await axios.request(options);
-        // const data = response.data?.data || [];
+        const response = await axios.request(options);
+        const data = response.data?.data || [];
 
-        // // Normalize the output
+        // Normalize the output
 
 
-        // return data;
+        return data;
 
-        return VIDEOS
     } catch (error) {
         console.error('Failed to fetch TikTok videos:', error);
         return [];

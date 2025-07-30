@@ -1,0 +1,18 @@
+[
+  {
+    "video_id": "7514239121410329863",
+    "url": "https://v16m-default.tiktokcdn.com/ea60e9e939d533ec0f3277304c4ddc5a/6889733a/video/tos/alisg/tos-alisg-pve-0037c001/ooUC8fmlDEBMeH6AAQFQoRjlkCfAQCDIEgApIj/?a=30192&bti=OHYpOTY0Zik3OjlmOm01MzE6ZDQ0MDo%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=2674&bt=1337&cs=0&ds=6&ft=EeF4ntZWD00Q12NvaED.WIxR9DQyhF_45SY&mime_type=video_mp4&qs=0&rc=OmY8OjdnNGhkOGRpN2g7PEBpM2w3Z3c5cjx5NDMzODczNEAwLzEzMTQzXi8xL14zMTVhYSNjZDE2MmRjLTBhLS1kMTFzcw%3D%3D&vvpl=1&l=2025073003193863C063A233E2BE304A62&btag=e000b0000",
+    "description": "A man and a young child are sitting at a small table outside on a balcony or patio. The child is playing a game on a phone, and the man is telling him \"no\" repeatedly in Arabic while gesturing with his hands. There are two small, round pastries on a plate on the table between them.",
+    "approved": true,
+    "checks": {
+      "duration": true,
+      "vertical": true,
+      "noWatermarkOrText": true,
+      "noTalking": true,
+      "noLyrics": true,
+      "hasSound": true,
+      "singleShot": true
+    },
+    "reasons": []
+  }
+]
